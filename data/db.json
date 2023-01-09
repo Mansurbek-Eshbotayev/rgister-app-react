@@ -1,0 +1,54 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "email": "mustafo@gmail.com",
+      "password": "$2a$10$2nVPwK0VbDuL43i/AfRyrOkZ9Y08EubTG5whIdf2Il4ZzvZGQl9QW",
+      "firstname": "Mansurbek",
+      "lastname": "Mansurbek",
+      "id": 1
+    },
+    {
+      "email": "imron@gmail.com",
+      "password": "$2a$10$.5m1hqG6Or/4k4fRXR8Gee9NEXLMnnfxZyN6FC3eujfLVLiyhG9lq",
+      "firstname": "Mansurbek",
+      "lastname": "Maxamadov",
+      "id": 2
+    },
+    {
+      "email": "Mustafojon@gmail.com",
+      "password": "$2a$10$fP1VRNb1BvDopfANOj2sqOxJvVNjFvMGh2L3GTO522G0Xidfem512",
+      "firstname": "Mustafo",
+      "lastname": "Imron",
+      "id": 3
+    },
+    {
+      "email": "maxmud@gmail.com",
+      "password": "$2a$10$s42itGnsU9luKpHtRIys3.ze5/l.FUW9KtP8/oAXuMNCKuFkT44Ne",
+      "firstname": "Maxmud",
+      "lastname": "Maxamadov",
+      "id": 4
+    },
+    {
+      "email": "adaed@gmail.com",
+      "password": "$2a$10$Ma5b/Se/hEpuuGIzad/DRucMLcwV7z.xWY4rbClwZ.4G21n7aewTS",
+      "firstname": "Musli",
+      "lastname": "JKjkjd",
+      "id": 5
+    },
+    {
+      "email": "yusufy@gmail.com",
+      "password": "$2a$10$1/55i6SZ2pffYjas/.uJzOhOd3rGa.fajYZZovkf928KydL6HyKyK",
+      "firstname": "Yusuf",
+      "lastname": "Eshbotaev",
+      "id": 6
+    },
+    {
+      "email": "mansurbek@gmail.com",
+      "password": "$2a$10$Xdelw7rQrhU69uAQpPlg1O1.VaTNNalqfz9kxF..9AxggKkHky9HO",
+      "firstname": "Mansur",
+      "lastname": "Ganiev",
+      "id": 7
+    }
+  ]
+}
